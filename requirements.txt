@@ -1,0 +1,7 @@
+sqlalchemy[asyncio]
+fastapi
+pydantic
+redis
+aiomysql
+uvicorn
+cryptography

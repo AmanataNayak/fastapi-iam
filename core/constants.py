@@ -1,0 +1,2 @@
+class StatusConstants:
+    SUCCESS = "SUCCESS"
